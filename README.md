@@ -2,7 +2,7 @@
 
 Report Template: Model Selection
 ## About this repository
-This repository contains all the source code for the INST0060 UCL Module "Foundations of Machine Learning and Data Science" group project, completed by the above team members.
+This repository contains all the source code for the INST0060 UCL Module "Foundations of Machine Learning and Data Science" project.
 ## Dependencies
 Make sure you have the following dependencies installed before running the script:
 - numpy
