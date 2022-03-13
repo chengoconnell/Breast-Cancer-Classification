@@ -1,8 +1,6 @@
-# FOMLADS Group Coursework
+# Breast Cancer Classification 
+Classifying recurring and non-recurring breast cancer events through four machine learning models: Fisher's Linear Discriminant, Logistic Regression, Support Vector Machines, and Multi-Layer Perceptrons. The aim of the investigation is to compare the models across a number of performance metrics, including accuracy, recall, precision, and the F1 score.
 
-Report Template: Model Selection
-## About this repository
-This repository contains all the source code for the INST0060 UCL Module "Foundations of Machine Learning and Data Science" project.
 ## Dependencies
 Make sure you have the following dependencies installed before running the script:
 - numpy
