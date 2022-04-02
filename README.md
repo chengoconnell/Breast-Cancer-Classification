@@ -1,6 +1,8 @@
 # Breast Cancer Classification 
 Classifying recurring and non-recurring breast cancer events through four machine learning models: Fisher's Linear Discriminant, Logistic Regression, Support Vector Machines, and Multi-Layer Perceptrons. The aim of the investigation is to compare the models across a number of performance metrics, including accuracy, recall, precision, and the F1 score.
 
+<img width="397" alt="Screenshot 2022-04-02 at 22 21 00" src="https://user-images.githubusercontent.com/69536010/161401604-4cf6618e-8363-4f92-8fdc-73154d59fc4e.png">
+
 ## Dependencies
 Make sure you have the following dependencies installed before running the script:
 - numpy
